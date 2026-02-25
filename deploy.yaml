@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
         - name: custom
-          image: docker6767/image
+          image: ezhaandocker/image
           ports:
             - containerPort: 80
